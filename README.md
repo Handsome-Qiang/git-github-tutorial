@@ -7,7 +7,7 @@
 
 ## 常用命令
 ```
-git clone git@github.com:<你的GitHub用户名>/git-github-tutorial.git
+git clone git@github.com:Handsome-Qiang/git-github-tutorial.git
 git add .
 git commit -m "说明"
 git push -u origin main
